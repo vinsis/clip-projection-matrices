@@ -20,3 +20,9 @@
     ├── utils.py
     └── visualizing_results.ipynb
 ```
+
+### Top 10 images based on the prompts
+![](assets/top_10_images.png)
+
+### Bottom 10 images based on the prompts
+![](assets/bottom_10_images.png)
