@@ -1,5 +1,7 @@
 # clip-projection-matrices
 
+Article: https://www.linearalgebraforprogrammers.com/blog/image_assessment_clip
+
 ## Dataset
 - Source: http://database.mmsp-kn.de/koniq-10k-database.html
     - [Small dataset](http://datasets.vqa.mmsp-kn.de/archives/koniq10k_512x384.zip) of ~10,000 images
